@@ -693,7 +693,7 @@
         "welcomePage.progress.foreground": "#e95378",
         "welcomePage.tileBackground": "#1b1c25",
         "welcomePage.tileBorder": "#ffffff1a",
-        "welcomePage.tileHoverBackground": "#20212c",
+        "welcomePage.tileHoverBackground": "#20212c"
     },
     "editor.fontFamily": "Cartograph CF ,monospace",
     "editor.fontWeight": "500",
@@ -735,7 +735,7 @@
             {
                 "scope": "entity.name.tag",
                 "settings": {
-                    "foreground": "#E95678E6",
+                    "foreground": "#E95678E6"
                 }
             },
             {
@@ -950,7 +950,7 @@
             {
                 "scope": "punctuation.definition.tag",
                 "settings": {
-                    "foreground": "#E95678B3",
+                    "foreground": "#E95678B3"
                 }
             },
             {
@@ -1040,5 +1040,5 @@
         ],
         "types": "#cec2eb"
     },
-    "editor.fontSize": 18,
+    "editor.fontSize": 18
 }
